@@ -81,4 +81,5 @@ Web interface is at `<your ip>:8081` , set paths for downloads, tv-shows to matc
 
 ## Versions
 
-+ **10.12.16:** Initial Release
++ **30.05.17:** Rebase to alpine 3.6.
++ **10.12.16:** Initial Release.
