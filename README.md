@@ -82,6 +82,7 @@ Web interface is at `<your ip>:8081` , set paths for downloads, tv-shows to matc
 
 ## Versions
 
++ **20.03.18:** In lieu of a definite fix from SR, add nodejs package for use with torrentz and other sources.
 + **06.08.17:** Internal git pull instead of at runtime.
 + **30.05.17:** Rebase to alpine 3.6.
 + **10.12.16:** Initial Release.
